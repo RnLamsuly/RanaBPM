@@ -1,0 +1,49 @@
+{
+    "updated": [
+        {
+            "id": 1,
+            "bvid": "BV1JDBCBQEdd",
+            "title": "The Last Page",
+            "artist": "ARForest",
+            "game": "Phigros | Malody | Rizline | MUSYNC | vivid/stasis",
+            "date": "2025-12-27",
+            "description": "终章之后，万籁俱寂，万象新生。\n受到JustUTB的启发，决定制作手元混剪。这是第一次尝试，可以作为本系列的序章。这次手元仍有很多不足的地方。"
+        },
+        {
+            "id": 2,
+            "bvid": "BV1dcX5BYEJr",
+            "title": "天元枢机",
+            "artist": "\"L.\" for Laplace",
+            "game": "节奏大师 | Phigros | Malody",
+            "date": "2026-03-28",
+            "description": "祂在天元低语，万物皆是应答。算法即圣经，数据即祷告。\n这次手元混剪的质量我觉得很满意。\n个人认为节奏大师质量最高的独占曲\n我们至今仍不知道曲师是谁（）"
+        },
+        {
+            "id": 3,
+            "bvid": "BV1xnojBAEai",
+            "title": "迷星叫",
+            "artist": "MyGO!!!!!",
+            "game": "BangDream | Phigros | 节奏大师",
+            "date": "2026-04-25",
+            "description": "在繁星迷失的黑夜，我用呐喊寻找回响。\n这期手元混剪的质量没有达到我的预想，也许是因为上一期天元枢机于我而言非常满意从而提高了我对手元混剪的标准。"
+        }
+    ],
+    "planned": [
+        {
+            "id": 101,
+            "title": "Credit",
+            "artist": "Frums",
+            "game": "敬请期待",
+            "plannedDate": "2026-05-30",
+            "description": "已经剪辑完毕，待发布。"
+        },
+        {
+            "id": 102,
+            "title": "Luminescence",
+            "artist": "米虾Fomiki vs. 初云Cloudie",
+            "game": "敬请期待",
+            "plannedDate": "2026-06-27",
+            "description": "素材录制完毕，剪辑未完成。"
+        }
+    ]
+}
