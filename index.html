@@ -10,7 +10,6 @@
 <body onload="timeEvent()">
 <script src="tool.js"></script>
 <div class="main-container">
-    <!-- 上：标题与问候版块 -->
     <div class="hero-section">
         <h1 class="hero-title" id="welcome">你好！<br>欢迎来到RnLamsuly的音游主页！</h1>
         <div class="hero-greeting" id="timer">
@@ -19,9 +18,7 @@
         
     </div>
 
-    <!-- 中：左右两个版块 (谱面下载预览与入口 + 成绩图预览与入口) -->
     <div class="middle-dashboard">
-        <!-- 左侧：谱面下载预览区 -->
         <div class="glass-card left-card">
             <div class="card-content" onclick="location.href='chart/list.html'">
                 <div class="card-title">RnLamsuly的自制谱工坊</div>
@@ -31,7 +28,6 @@
             </div>
         </div>
 
-        <!-- 右侧：成绩图预览区 -->
         <div class="glass-card right-card">
             <div class="card-content" onclick="location.href='video/list.html'">
                 <div class="card-title">RnLamsuly的手元混剪频道</div>
@@ -42,7 +38,6 @@
         </div>
     </div>
 
-    <!-- 下：个人介绍，悬停展开版块（宽度与屏幕等宽靠主容器撑开，body背景延展） -->
     <div class="intro-wrapper">
         <div class="intro-collapsible">
             <div class="intro-content">
@@ -64,10 +59,5 @@
     </div>
 </div>
 
-<!-- 简单交互模拟：预览入口轻提示 + 演示成绩图弹窗（非侵入）下载演示 -->
-<script>
-    
-</script>
-<!-- 备注：背景图片接口依旧使用 background.png, 随时替换url即可 -->
 </body>
 </html>
