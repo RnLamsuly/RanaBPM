@@ -26,17 +26,18 @@
             "game": "BangDream | Phigros | 节奏大师",
             "date": "2026-04-25",
             "description": "在繁星迷失的黑夜，我用呐喊寻找回响。\n这期手元混剪的质量没有达到我的预想，也许是因为上一期天元枢机于我而言非常满意从而提高了我对手元混剪的标准。"
+        },
+        {
+            "id": 4,
+            "bvid": "BV1qFVh6DEVc",
+            "title": "Credits",
+            "artist": "Frums",
+            "game": "Phigros | vivid/stasis | ADOFAI",
+            "date": "2026-05-30",
+            "description": "尝试加入PC端屏元。\n我发现如果加入PC端屏元的话，剪辑必须分主次，手元为主，屏元为辅。这次的效果还行，不过感觉有点太花了，下次可能会朴素点。这期手元混剪的质量没有达到我的预想，也许是因为上一期天元枢机于我而言非常满意从而提高了我对手元混剪的标准。"
         }
     ],
     "planned": [
-        {
-            "id": 101,
-            "title": "Credit",
-            "artist": "Frums",
-            "game": "敬请期待",
-            "plannedDate": "2026-05-30",
-            "description": "已经剪辑完毕，待发布。"
-        },
         {
             "id": 102,
             "title": "Luminescence",
