@@ -190,5 +190,29 @@
         "download": "YOUNITHM/YOUNITHM.mcz", 
         "Filename": "YOUNITHM.mcz", 
         "description": "个人质量最高的折线谱，也是我最喜欢的一张谱面。强力推荐" 
+    },
+    { 
+        "id": 17, 
+        "title": "神鳴", 
+        "artist": "Rigr frat. 光吉猛修", 
+        "game": "RM", 
+        "difficulty": "困难 14级", 
+        "bpm": 205, 
+        "cover": "神鳴/神鳴.png", 
+        "download": "神鳴/神鳴.mcz", 
+        "Filename": "神鳴.mcz", 
+        "description": "取代YOUNITHM个人质量最高的折线谱，是我打算给所有中二门曲写谱之后的第一张谱面。强力推荐" 
+    },
+    { 
+        "id": 18, 
+        "title": "Tru'nembra", 
+        "artist": "Team Grimoire & 穴山大輔", 
+        "game": "RM", 
+        "difficulty": "大师 14级", 
+        "bpm": 195, 
+        "cover": "Tru'nembra/Tru'nembra.png", 
+        "download": "Tru'nembra/Tru'nembra.mcz", 
+        "Filename": "Tru'nembra.mcz", 
+        "description": "南亭的钥匙。为了门曲全家桶，反复听这歌听了四个小时。谱面质量中规中矩" 
     }
 ]
