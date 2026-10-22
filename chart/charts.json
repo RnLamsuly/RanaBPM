@@ -208,11 +208,47 @@
         "title": "Tru'nembra", 
         "artist": "Team Grimoire & 穴山大輔", 
         "game": "RM", 
-        "difficulty": "大师 14级", 
+        "difficulty": "困难 14级", 
         "bpm": 195, 
         "cover": "Tru'nembra/Tru'nembra.png", 
         "download": "Tru'nembra/Tru'nembra.mcz", 
         "Filename": "Tru'nembra.mcz", 
         "description": "南亭的钥匙。为了门曲全家桶，反复听这歌听了四个小时。谱面质量中规中矩" 
+    },
+    { 
+        "id": 19, 
+        "title": "Every Thing Will Be One", 
+        "artist": "void", 
+        "game": "RM", 
+        "difficulty": "困难 12级", 
+        "bpm": 195, 
+        "cover": "Everything_Will_Be_One/Everything_Will_Be_One.png", 
+        "download": "Everything_Will_Be_One/Everything_Will_Be_One.mcz", 
+        "Filename": "Everything_Will_Be_One.mcz", 
+        "description": "Trance感觉不太好写谱。谱面质量中规中矩" 
+    },
+    { 
+        "id": 20, 
+        "title": "OUTRAGE", 
+        "artist": "USAO vs. DJ Myosuke", 
+        "game": "RM", 
+        "difficulty": "困难 13级", 
+        "bpm": 195, 
+        "cover": "OUTRAGE/OUTRAGE.png", 
+        "download": "OUTRAGE/OUTRAGE.mcz", 
+        "Filename": "OUTRAGE.mcz", 
+        "description": "大划爽！配置整体参考了消毒水MX官谱，值得一玩的谱面。" 
+    },
+    { 
+        "id": 21, 
+        "title": "輪廻玲々", 
+        "artist": "Team Grimoire & 穴山大輔", 
+        "game": "RM", 
+        "difficulty": "困难 13级", 
+        "bpm": 195, 
+        "cover": "輪廻玲々/Rinne_Reirei.png", 
+        "download": "輪廻玲々/Rinne_Reirei.mcz", 
+        "Filename": "輪廻玲々.mcz", 
+        "description": "宿暗示警告。难度不高的键盘谱。" 
     }
 ]
