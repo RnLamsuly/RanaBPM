@@ -250,5 +250,17 @@
         "download": "輪廻玲々/Rinne_Reirei.mcz", 
         "Filename": "輪廻玲々.mcz", 
         "description": "宿暗示警告。难度不高的键盘谱。" 
+    },
+    { 
+        "id": 22, 
+        "title": "無路矢", 
+        "artist": "MyGO!!!!!", 
+        "game": "Key", 
+        "difficulty": "~ Reform 6dan", 
+        "bpm": 120, 
+        "cover": "Noroshi/Noroshi.jpg", 
+        "download": "Noroshi/Noroshi.mcz", 
+        "Filename": "無路矢.mcz", 
+        "description": "第一次写乱，慢速双乱，不过夹了点小零食。还是很好玩的！" 
     }
 ]
